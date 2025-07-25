@@ -48,8 +48,8 @@ A modern, fully-featured task management app built with Flutter. This applicatio
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/Hussa-boop/task_app.git
+   cd task_app
    ```
 
 2. **Install dependencies:**
