@@ -1,16 +1,31 @@
 # task_app
+بالطبع! إليك فقرة احترافية يمكنك تضمينها في السيرة الذاتية (CV) تحت قسم "المشاريع التقنية" أو "أبرز الإنجازات"، وتحتوي على فكرة المشروع، التقنيات المستخدمة، وكيفية العمل عليه، مع ربطها بمهاراتك التقنية:
 
-A new Flutter project.
+---
 
-## Getting Started
+**مشروع: Task Manager App – تطبيق إدارة المهام (Flutter)**
+- **وصف المشروع:**  
+  قمت بتصميم وتطوير تطبيق مهام عصري باستخدام Flutter يتيح للمستخدمين تنظيم وإدارة مهامهم اليومية بكفاءة عالية. يتميز التطبيق بإمكانية إضافة وتعديل وحذف المهام، مع دعم فئات ديناميكية يمكن للمستخدم التحكم بها بالكامل، وفلاتر متقدمة للبحث والتصفية حسب الفئة، الأولوية، الحالة، والتاريخ، بالإضافة إلى بحث ديناميكي مباشر وإشعارات ذكية (ثابتة ومكررة أسبوعياً).
+- **الفكرة:**  
+  تلبية احتياج المستخدم العربي لتطبيق مهام مرن وسهل الاستخدام يدعم التخصيص الكامل للفئات، مع تجربة مستخدم عصرية ودعم كامل للغة العربية (RTL) وإحصائيات تفاعلية.
+- **التقنيات والأدوات المستخدمة:**  
+  - Flutter (تطوير واجهات هجينة Android/iOS)
+  - Hive (قاعدة بيانات محلية سريعة)
+  - Provider (إدارة الحالة)
+  - flutter_local_notifications (جدولة وإدارة الإشعارات)
+  - Dart، VS Code، Android Studio، Git
+- **آلية العمل:**  
+  - بناء هيكل بيانات ديناميكي للفئات باستخدام Hive مع واجهات CRUD.
+  - تصميم واجهات تفاعلية تدعم التغيير الفوري للثيم والفلاتر المتقدمة.
+  - ربط جميع الشاشات بمنطق البحث والتصفية الديناميكي.
+  - جدولة إشعارات ذكية (ثابتة ومكررة) وإدارتها تلقائياً عند اكتمال أو حذف المهمة.
+  - اختبار شامل لتكامل الفلاتر، البحث، وتغيير الثيم مع الفئات الديناميكية.
+- **النتيجة:**  
+  تطبيق متكامل يدعم العمل دون اتصال، ويوفر تجربة مستخدم احترافية وقابلة للتخصيص، ويعكس مهاراتي في تطوير تطبيقات Flutter المتقدمة، إدارة الحالة، وتصميم واجهات حديثة.
 
-This project is a starting point for a Flutter application.
+---<img width="345" height="768" alt="Screenshot 2025-08-08 181406" src="https://github.com/user-attachments/assets/bd2a79e9-624a-4b4f-b2e8-30b5421617ab" />
+<img width="341" height="766" alt="Screenshot 2025-08-08 181730" src="https://github.com/user-attachments/assets/4445e4bd-0935-40e6-ab2b-66812be72625" />
+<img width="347" height="767" alt="Screenshot 2025-08-08 182752" src="https://github.com/user-attachments/assets/188a144e-0616-46a2-a965-73df2325d660" />
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+يمكنك إضافة هذه الفقرة تحت قسم "المشاريع التقنية" أو "أبرز الإنجازات" في سيرتك الذاتية، وستعطي انطباعاً قوياً عن خبرتك العملية والبرمجية. إذا أردت صياغة مختصرة أو ترجمة للإنجليزية، أخبرني بذلك!
